@@ -120,7 +120,7 @@ header button{
 .box-content{
     display:grid;
     grid-template-columns:32% 32% 32%;
-    /* grid-template-rows:300px 300px 300px; */
+    grid-template-rows:300px 300px 300px; 
     grid-gap:2%;
 }
 /* cards */
